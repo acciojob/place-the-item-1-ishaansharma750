@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+
+/* Your CSS Code here. */
+.first{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+	
+}
+.one{
+	background-color:green;
+	
+}
+.two{
+	background-color:red;
+}
+.three{
+	background-color:blue;
+}
